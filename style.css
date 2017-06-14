@@ -1,0 +1,21 @@
+#uno{
+height: 120px;
+width:50%;
+margin: 10px 15;
+font-size: :4em;
+border-style:solid;
+border-radius: 10%;
+display: inline-block;
+p{
+  margin-left: 5%auto;
+
+}
+html{
+display: table;
+margin:auto;
+}
+body{
+display: table-cell;
+vertical-align: middle;
+text-align: center;
+}
